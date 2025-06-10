@@ -2,5 +2,8 @@ kaggle
 pyYAML
 python-box
 ensure
+notebook
+pandas
+
 
 ##-e .

@@ -1,0 +1,5 @@
+[ 2025-06-10 15:24:27,624 ] 8 -BikeSharingDemand- INFO- Data Ingestion Stage Started
+[ 2025-06-10 15:24:27,624 ] 30 -BikeSharingDemand- INFO- folder is created artifacts
+[ 2025-06-10 15:24:27,624 ] 30 -BikeSharingDemand- INFO- folder is created artifacts/data/raw
+[ 2025-06-10 15:24:27,624 ] 16 -BikeSharingDemand- INFO- Datset already downloaded at artifacts/data/raw/dataset.zip
+[ 2025-06-10 15:24:27,624 ] 47 -BikeSharingDemand- INFO- File is already unzipped

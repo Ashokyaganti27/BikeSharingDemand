@@ -1,0 +1,9 @@
+[ 2025-06-10 17:06:53,368 ] 9 -BikeSharingDemand- INFO- Data Ingestion Stage Started
+[ 2025-06-10 17:06:53,368 ] 30 -BikeSharingDemand- INFO- folder is created artifacts
+[ 2025-06-10 17:06:53,368 ] 30 -BikeSharingDemand- INFO- folder is created artifacts/data/raw
+[ 2025-06-10 17:06:53,368 ] 16 -BikeSharingDemand- INFO- Datset already downloaded at artifacts/data/raw/dataset.zip
+[ 2025-06-10 17:06:53,368 ] 47 -BikeSharingDemand- INFO- File is already unzipped
+[ 2025-06-10 17:06:53,368 ] 17 -BikeSharingDemand- INFO- Data Validation Stage Started
+[ 2025-06-10 17:06:53,368 ] 30 -BikeSharingDemand- INFO- folder is created artifacts/DataIngestion
+[ 2025-06-10 17:06:53,368 ] 20 -BikeSharingDemand- INFO- Data Validation Function started
+[ 2025-06-10 17:06:53,392 ] 43 -BikeSharingDemand- INFO- Data validation is success 

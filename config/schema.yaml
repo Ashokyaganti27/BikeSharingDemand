@@ -1,0 +1,16 @@
+
+# schema of data 
+
+columns:
+    datetime: object
+    season: int64
+    holiday: int64
+    workingday: int64
+    weather: int64
+    temp: float64
+    atemp: float64
+    humidity: int64
+    windspeed: float64
+
+target_column:
+    count: int64

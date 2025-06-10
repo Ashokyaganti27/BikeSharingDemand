@@ -1,0 +1,12 @@
+artifacts_root: artifacts
+
+data_ingestion:
+    filepath: artifacts/data/raw
+    link: "bike-sharing-demand"
+    unzip_path: artifacts/data/raw/dataset.zip
+    
+data_validation:
+    root_dir: artifacts/DataIngestion
+    train_path: artifacts/data/raw/train.csv
+    test_path: artifacts/data/raw/test.csv
+    status_file: artifacts/DataIngestion/STATUS.txt
